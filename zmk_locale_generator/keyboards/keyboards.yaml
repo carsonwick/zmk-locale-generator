@@ -419,7 +419,7 @@
 - path: cldr/keyboards/osx/sv-t-k0-osx.xml
   filename: sv_mac_legacy
 - path: cldr/keyboards/osx/sv-t-k0-osx-extended-var.xml
-  filename: sv_sami_mac
+  filename: sv_mac_sami
 
 
 # Syriac
