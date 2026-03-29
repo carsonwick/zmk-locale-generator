@@ -414,6 +414,13 @@
 - path: cldr/keyboards/windows/sv-t-k0-windows.xml
 - path: cldr/keyboards/windows/sv-t-k0-windows-extended.xml
   filename: sv_sami
+- path: cldr/keyboards/mac/sv-t-k0-osx-extended.xml
+  filename: sv_mac
+- path: cldr/keyboards/mac/sv-t-k0-osx.xml
+  filename: sv_mac_legacy
+- path: cldr/keyboards/mac/sv-t-k0-osx-extended-var.xml
+  filename: sv_sami_mac
+
 
 # Syriac
 - path: cldr/keyboards/windows/syr-t-k0-windows.xml
